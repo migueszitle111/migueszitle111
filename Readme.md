@@ -2,6 +2,7 @@ Hola
 Mi nombre es Miguel Zitle Santiago
 
 Estudiante de Ingeniera en sistemas computacionales en el Instituto Tecnologico de Tijunana
+Me gusta escuchar musica y ver series
 
 HORARIO
 
