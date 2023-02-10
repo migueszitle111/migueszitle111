@@ -3,7 +3,7 @@ Mi nombre es Miguel Zitle Santiago
 
 Estudiante de Ingeniera en sistemas computacionales en el Instituto Tecnologico de Tijunana
 
-#HORARIO
+HORARIO
 
 | HORA  | LUNES                      | MARTES                     | MIERCOLES                  | JUEVES                     | VIERNES                    |
 |-------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
@@ -15,7 +15,7 @@ Estudiante de Ingeniera en sistemas computacionales en el Instituto Tecnologico 
 | 6:00  | CONMUTACION Y ENRUTAMIENTO | CONMUTACION Y ENRUTAMIENTO | CONMUTACION Y ENRUTAMIENTO | CONMUTACION Y ENRUTAMIENTO | CONMUTACION Y ENRUTAMIENTO |
 
 
-#EXTRA
+EXTRA
 ```ruby
 require 'redcarpet'
 markdown = Redcarpet.new("Hello World!")
