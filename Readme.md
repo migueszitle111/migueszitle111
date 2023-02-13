@@ -19,7 +19,7 @@
 - <img src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 - <img src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 ---
-### Mi Horario actual Enero - Junio 2023 <img src="'https://gfycat.com/ifr/BossyImmenseDuck' frameborder='0' scrolling='no'" width="30px"/>
+### 🏫 Mi Horario actual Enero - Junio 2023 <img src="'https://gfycat.com/ifr/BossyImmenseDuck' frameborder='0' scrolling='no'" width="30px"/>
 
 | HORA  | LUNES                      | MARTES                     | MIERCOLES                  | JUEVES                     | VIERNES                    |
 |-------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
