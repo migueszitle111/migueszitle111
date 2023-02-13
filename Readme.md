@@ -1,14 +1,11 @@
+<h1 align="center">
+  <img src="https://media3.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif?cid=ecf05e478t4ymnj0uxmigfozwkclquoa5x8vukcqo9y03wwv&rid=giphy.gif&ct=g" width="200px" />
+
 <div id="header" align="center">
   <img src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" width="500"/>
 </div>
 
-<h1 align="center">
-  Bienvenido
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
-
----
-### :man_technologist: Acerca de mi :
+### :man_technologist: Acerca de mi : <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   
 - 👨‍🦱  Mi nombre es Miguel Zitle Santiago
 - 👨‍🎓  Actualmente soy estudiante de 7mo semestre de ingeniera en sistemas computacionales en el Instituto Tecnologico de Tijuana <img src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.svg" width="30"> 
@@ -22,7 +19,7 @@
 - <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ahtml"><img alt="HTML" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"></a>
 -  <a href="https://github.com/search?q=user%3ADenverCoder1+language%3Ajava"><img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"></a>
 ---
-### Mi Horario actual Enero - Junio 2023 <img src="[https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif](https://thumbs.gfycat.com/BossyImmenseDuck-size_restricted.gif)" width="30px"/>
+### Mi Horario actual Enero - Junio 2023 <img src="'https://gfycat.com/ifr/BossyImmenseDuck' frameborder='0' scrolling='no'" width="30px"/>
 
 | HORA  | LUNES                      | MARTES                     | MIERCOLES                  | JUEVES                     | VIERNES                    |
 |-------|----------------------------|----------------------------|----------------------------|----------------------------|----------------------------|
