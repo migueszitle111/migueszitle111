@@ -3,7 +3,7 @@ Mi nombre es Miguel Zitle Santiago
 
 Estudiante de Ingeniera en Sistemas Computacionales en el Instituto Tecnologico de Tijuana
 
-Me gusta escuchar musica y ver series
+
 
 HORARIO
 
