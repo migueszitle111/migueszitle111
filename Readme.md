@@ -1,3 +1,7 @@
+<div id="header" align="center">
+  <img src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" width="300"/>
+</div>
+
 Hola 
 Mi nombre es Miguel Zitle Santiago
 
