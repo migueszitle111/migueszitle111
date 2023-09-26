@@ -1,8 +1,18 @@
+<h1 align="center">
+  <picture>
+  <img src="https://media3.giphy.com/media/XCxjzveGa47DOd8zuq/giphy.gif?cid=ecf05e478t4ymnj0uxmigfozwkclquoa5x8vukcqo9y03wwv&rid=giphy.gif&ct=g" width="200px" />
+  </picture>
 
-### :man_technologist: Acerca de mi : <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  
+<div id="header" align="center">
+   <picture>
+  <img src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" width="500"/>
+   </picture>
+</div>
+
+
+### :man_technologist: Acerca de mi : <picture> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </picture>
 - 👨‍🦱  Mi nombre es Miguel Zitle Santiago
-- 👨‍🎓  Actualmente soy estudiante de 7mo semestre de ingeniera en sistemas computacionales en el Instituto Tecnologico de Tijuana <img src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.svg" width="30"> 
+- 👨‍🎓  Actualmente soy estudiante de 7mo semestre de ingeniera en sistemas computacionales en el Instituto Tecnologico de Tijuana  <picture> <img src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.svg" width="30"> </picture> 
 
 ---
 
