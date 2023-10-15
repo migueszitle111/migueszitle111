@@ -11,7 +11,7 @@
 
 ### :man_technologist: Acerca de mi : <picture> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></picture>
 - 👨‍🦱  Mi nombre es Miguel Zitle Santiago
-- 👨‍🎓  Actualmente soy estudiante de 7mo semestre de ingeniera en sistemas computacionales en el Instituto Tecnologico de Tijuana  <picture> <img src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.svg" width="30"> </picture> 
+- 👨‍🎓  Actualmente soy estudiante de 8vo semestre de ingeniera en sistemas computacionales en el Instituto Tecnologico de Tijuana  <picture> <img src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.svg" width="30"> </picture> 
 
 ---
 
