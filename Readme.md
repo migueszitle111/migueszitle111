@@ -24,11 +24,10 @@
 </div>
 
 <h1 align="left"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60px"/> <a href="https://github.com/Aryagm"><a> Estadisticas de Github:</h1>
-
-[![migueszitle111](https://github-readme-stats.vercel.app/api?username=migueszitle111&show_icons=true&theme=chartreuse-dark)](https://github.com/migueszitle111)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=migueszitle111&layout=compact&theme=chartreuse-dark)
-
+ <div align="center">
+		<img src="https://github-readme-stats.vercel.app/api?username=migueszitle111&show_icons=true&count_private=true&theme=chartreuse-dark" height="200px" width="500px"></a>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueszitle111&layout=compact&theme=chartreuse-dark&langs_count=9" height="205px" width="500px"></a>
+</div>
 
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
