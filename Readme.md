@@ -4,7 +4,7 @@
   </picture></div>
 <div id="header" align="center">
    <picture>
-  <img src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" width="500"/>
+  <img src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" width="700"/>
    </picture>
 </div>  
 <h1 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"/> <a href="https://github.com/Aryagm"><a> Acerca de mi:</h1>  
