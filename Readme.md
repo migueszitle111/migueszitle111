@@ -10,7 +10,7 @@
 <h1 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"/> <a href="https://github.com/Aryagm"><a> Acerca de mi:</h1>  
   
 - 👨‍🦱  Mi nombre es Miguel Zitle Santiago
-- 👨‍🎓  Actualmente soy estudiante de 9no semestre de ingeniera en sistemas computacionales en el Instituto Tecnologico de Tijuana  <picture> <img src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.svg" width="30"> </picture>
+- 👨‍🎓  Actualmente soy estudiante de 12vo semestre de ingeniera en sistemas computacionales en el Instituto Tecnologico de Tijuana  <picture> <img src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.svg" width="30"> </picture>
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
