@@ -7,10 +7,7 @@
   <img src="https://i.pinimg.com/originals/20/c6/58/20c658e4c375268eed59d1c94b61059f.gif" width="550"/>
    </picture>
 </div>  
-<h1 align="left"><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width="50px"/> <a href="https://github.com/Aryagm"><a> Acerca de mi:</h1>  
-  
-- 👨‍🦱  Mi nombre es Miguel Zitle Santiago
-- 👨‍🎓  Actualmente soy estudiante de 12vo semestre de ingeniera en sistemas computacionales en el Instituto Tecnologico de Tijuana  <picture> <img src="https://www.tijuana.tecnm.mx/wp-content/themes/tecnm/images/logo_TECT.svg" width="30"> </picture>
+
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 </div>
@@ -24,13 +21,7 @@
 </div>
 
 <h1 align="left"><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="60px"/> <a href="https://github.com/Aryagm"><a> Estadisticas de Github:</h1>
- <div align="center">
-		<img src="https://github-readme-stats.vercel.app/api?username=migueszitle111&show_icons=true&count_private=true&theme=chartreuse-dark" height="180px" width="380px"></a>
-	        &nbsp;
-	        &nbsp;
-	        &nbsp;
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=migueszitle111&layout=compact&theme=chartreuse-dark&langs_count=9" height="185px" width="380px"></a>
-</div>
+
 
 <div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
